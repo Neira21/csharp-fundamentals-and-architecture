@@ -1,0 +1,14 @@
+D:\.NET\dotnet\MiConsola\bin\Debug\net8.0\MiConsola.exe
+D:\.NET\dotnet\MiConsola\bin\Debug\net8.0\MiConsola.deps.json
+D:\.NET\dotnet\MiConsola\bin\Debug\net8.0\MiConsola.runtimeconfig.json
+D:\.NET\dotnet\MiConsola\bin\Debug\net8.0\MiConsola.dll
+D:\.NET\dotnet\MiConsola\bin\Debug\net8.0\MiConsola.pdb
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\MiConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\MiConsola.AssemblyInfoInputs.cache
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\MiConsola.AssemblyInfo.cs
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\MiConsola.csproj.CoreCompileInputs.cache
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\MiConsola.dll
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\refint\MiConsola.dll
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\MiConsola.pdb
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\MiConsola.genruntimeconfig.cache
+D:\.NET\dotnet\MiConsola\obj\Debug\net8.0\ref\MiConsola.dll

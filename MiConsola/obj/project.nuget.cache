@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0bTrWDR6ABFzwjJZHHmOi3jUihWepEAWokggDtzXUoNoAQ1XiTzfGzJThxOShXp12woUqib3vyr7YFXIA7S43g==",
+  "success": true,
+  "projectFilePath": "d:\\.NET\\dotnet\\MiConsola\\MiConsola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alvaro\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.9\\microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "C:\\Users\\Alvaro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
