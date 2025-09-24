@@ -27,6 +27,15 @@
     public void Detach(IObserver observer)
     {
       observers.Remove(observer);
+
+      if (observer is Person person)
+      {
+        Console.WriteLine($"{person.Name} se ha desuscrito de la agencia de noticias.");
+      }
+      else
+      {
+        Console.WriteLine("Un observador se ha desuscrito de la agencia de noticias.");
+      }
     }
 
     public void Notify(string message)
@@ -66,9 +75,11 @@
       var alice = new Person("Alice");
       var bob = new Person("Bob");
 
+      // Se suscriben los observadores a la agencia de noticias
       agency.Attach(alice);
       agency.Attach(bob);
 
+      // el subject publica noticias, y esto llama al metodo notify que a su vez llama al metodo update de cada observador
       agency.PublishNews("Nuevo producto lanzado!");
       agency.PublishNews("Oferta especial esta semana!");
 
